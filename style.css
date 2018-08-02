@@ -45,26 +45,3 @@ header{
 	margin-top:100px;
 }
 
-
-=======
-header{
-
-	
-}
-
-#logo, nav, .link{
-	background-color: green;
-}
-h1{
-	float:left;
-}
-
-.link{
-	list-style-type: none;
-	float:right;
-	text-align: center;
-	padding:10px 20px;
-	color:#fff;
-
-}
->>>>>>> master
