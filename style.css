@@ -1,1 +1,47 @@
-style.css
+* {
+    box-sizing: border-box;
+}
+
+header{
+
+}
+
+#logo{
+	color:grey;
+	margin:5px;
+	padding:15px;
+	float:right;
+}
+
+.nav-link{
+	font-family: 'Source Sans Pro', sans-serif;
+	float:left;
+	padding:20px 10px;
+	display:block;
+	color:#fff;
+	text-decoration: none;
+}
+
+.nav-link:hover{
+	color:grey;
+	background-color:#fff;
+	border-radius:10px;
+	padding:10px 10px;
+}
+
+
+#headimg{
+	background-image: url("https://images.pexels.com/photos/717431/pexels-photo-717431.jpeg?auto=compress&cs=tinysrgb&h=650&w=940");
+	height:100vh;
+	width:auto;
+	background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#headtext{
+	float:right;
+	margin-top:100px;
+}
+
+
